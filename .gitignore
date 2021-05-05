@@ -1,0 +1,6 @@
+#file
+db.sqlite3
+
+#folder
+__pycache__/
+.vscode/
